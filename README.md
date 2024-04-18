@@ -1,2 +1,2 @@
 # Capstone-Project
-Useing-only-Html
+Using-only-Html
